@@ -23,3 +23,19 @@ body{
 #container p{
     font-size: 18px;
 }
+
+#cabecera{
+    background-color: #33a;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 11px 13px 28px -6px rgba(0,0,0,0.75);
+
+}
+
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
